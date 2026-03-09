@@ -1,0 +1,7 @@
+SpeechRecognition>=3.10.0
+gTTS>=2.5.0
+pygame>=2.5.0
+Pillow>=10.0.0
+# PyAudio must be installed manually on Windows using the provided .whl file:
+# pip install PyAudio-0.2.14-cp312-cp312-win_amd64.whl
+# On Linux/macOS: pip install pyaudio
